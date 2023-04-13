@@ -20,10 +20,10 @@
   pageRef = "posts/analysis"
   weight = 10
 
-[[main]]
-  name = "Our Impact"
-  pageRef = "posts/impact"
-  weight = 10
+#[[main]]
+#  name = "Our Impact"
+#  pageRef = "posts/impact"
+#  weight = 10
 
 #[[main]]
 #  name = "Parent"
