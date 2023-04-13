@@ -17,14 +17,14 @@ enableCodeCopy = true
 
 disableImageOptimization = false
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+#defaultBackgroundImage = "eviction.jpeg" # used as default for background images 
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "card" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -34,8 +34,8 @@ disableImageOptimization = false
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  layout = "card" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/eviction.jpeg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
