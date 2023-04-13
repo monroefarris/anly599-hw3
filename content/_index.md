@@ -6,3 +6,5 @@ was completed as a part of Georgetown's MDI Scholars Research Program.
 
 This research proposed a framework of **leveraging geospatial data, coupled with Census 
 data to understand evictions across various zip codes in a region.**
+
+
