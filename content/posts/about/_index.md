@@ -6,15 +6,16 @@
 >
 
 ## The CJDC
-The CJDC was envisioned to provide access to court-wide, community-wide, and population-level data to understand the prevalence, incidence, and consequences of civil justice problems. Our effort aims to balance the needs and requirements of data contributors (courts, legal service providers) and data users (researchers, civil justice institutions) in a secure and responsible way.
- 
-With an easy-to-use, cloud-based interface for discovering and analyzing data, the CJDC empowers researchers, courts, and legal service providers to efficiently identify, access, and analyze civil justice data to enable and accelerate the pursuit of just and equitable outcomes.
+![alt text](img.png)
 
 
-
-<!-- <iframe src="img.png" width="300%" height="100%"></iframe>
-<br>
-</br> -->
 {{< alert "check" >}}
 [Access the Civil Justice Data Commons](https://redivis.com/CJDC)
 {{< /alert >}}
+
+The CJDC was envisioned to provide access to court-wide, community-wide, and population-level data to understand the prevalence, incidence, and consequences of civil justice problems. Our effort aims to balance the needs and requirements of data contributors (courts, legal service providers) and data users (researchers, civil justice institutions) in a secure and responsible way.
+
+
+With an easy-to-use, cloud-based interface for discovering and analyzing data, the CJDC empowers researchers, courts, and legal service providers to efficiently identify, access, and analyze civil justice data to enable and accelerate the pursuit of just and equitable outcomes.
+
+
